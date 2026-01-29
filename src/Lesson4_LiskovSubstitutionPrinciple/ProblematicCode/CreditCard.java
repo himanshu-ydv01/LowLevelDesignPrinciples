@@ -1,4 +1,4 @@
-package Lesson4_LiskovSubstitutionPrinciples.ProblematicCode;
+package Lesson4_LiskovSubstitutionPrinciple.ProblematicCode;
 
 public abstract class CreditCard {
     private String ccNumber;

@@ -1,4 +1,4 @@
-package Lesson4_LiskovSubstitutionPrinciples.BetterCode;
+package Lesson4_LiskovSubstitutionPrinciple.BetterCode;
 
 import java.util.ArrayList;
 import java.util.List;
