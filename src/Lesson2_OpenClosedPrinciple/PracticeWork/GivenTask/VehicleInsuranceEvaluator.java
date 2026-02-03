@@ -1,4 +1,6 @@
-package Lesson2_OpenClosedPrinciple.PracticeWork.ProblematicCode;
+package Lesson2_OpenClosedPrinciple.PracticeWork.GivenTask;
+
+// Reminder That The Task Is Pending.
 
 class InsuranceQuote {
 
